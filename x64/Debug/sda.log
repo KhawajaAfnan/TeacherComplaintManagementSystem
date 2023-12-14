@@ -1,0 +1,5 @@
+﻿  sda.cpp
+Z:\Desktop\sda\sda.cpp(400,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Z:\Desktop\sda\sda.cpp(803,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Z:\Desktop\sda\sda.cpp(828,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  sda.vcxproj -> Z:\Desktop\sda\x64\Debug\sda.exe

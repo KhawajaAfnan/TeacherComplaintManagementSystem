@@ -1,0 +1,298 @@
+CCCC_Module@Administrator@class@
+CCCC_ModExt@Administrator@class@sda.cpp@706@definition@FT?T0@LOC:11 COM:1 MVG:0@0@d@
+CCCC_Module@AdministratorInterface@class@
+CCCC_ModExt@AdministratorInterface@class@sda.cpp@690@definition@FT?T2@LOC:3 COM:1 MVG:0@2@d@
+CCCC_Module@Adminitrator@class@
+CCCC_ModExt@Adminitrator@class@sda.cpp@11@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_Module@FileHandler@class@
+CCCC_ModExt@FileHandler@class@sda.cpp@6@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@FileHandler@class@sda.cpp@459@definition@FT?T2@LOC:4 COM:0 MVG:0@2@d@
+CCCC_Module@Teacher@class@
+CCCC_ModExt@Teacher@class@sda.cpp@9@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@Teacher@class@sda.cpp@365@definition@F??T0@LOC:7 COM:0 MVG:0@0@d@
+CCCC_Module@TeacherInterface@class@
+CCCC_ModExt@TeacherInterface@class@sda.cpp@8@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@TeacherInterface@class@sda.cpp@355@definition@F??T2@LOC:4 COM:0 MVG:0@2@d@
+CCCC_Module@Team@class@
+CCCC_ModExt@Team@class@sda.cpp@3@declaration@????2@LOC:1 COM:1 MVG:0@2@D@
+CCCC_ModExt@Team@class@sda.cpp@185@definition@F??T0@LOC:10 COM:1 MVG:0@0@d@
+CCCC_Module@TeamInterface@class@
+CCCC_ModExt@TeamInterface@class@sda.cpp@10@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@TeamInterface@class@sda.cpp@173@definition@F??T2@LOC:10 COM:0 MVG:0@2@d@
+CCCC_Module@TeamMember@class@
+CCCC_ModExt@TeamMember@class@sda.cpp@5@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@TeamMember@class@sda.cpp@101@definition@F??T0@LOC:8 COM:0 MVG:0@0@d@
+CCCC_Module@TeamMemberInterface@class@
+CCCC_ModExt@TeamMemberInterface@class@sda.cpp@92@definition@F??T2@LOC:3 COM:0 MVG:0@2@d@
+CCCC_Module@WorkRequest@class@
+CCCC_ModExt@WorkRequest@class@sda.cpp@4@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@WorkRequest@class@sda.cpp@32@definition@F???2@LOC:12 COM:0 MVG:0@2@d@
+CCCC_Module@anonymous@@
+CCCC_Module@char@builtin@
+CCCC_ModExt@char@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@dataManager@class@
+CCCC_ModExt@dataManager@class@sda.cpp@7@declaration@????2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_ModExt@dataManager@class@sda.cpp@667@definition@FT?T2@LOC:4 COM:0 MVG:0@2@d@
+CCCC_Module@double@builtin@
+CCCC_ModExt@double@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@float@builtin@
+CCCC_ModExt@float@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@int@builtin@
+CCCC_ModExt@int@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@long@builtin@
+CCCC_ModExt@long@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Module@string@@
+CCCC_Module@time_t@@
+CCCC_Module@vector@@
+CCCC_Module@void@builtin@
+CCCC_ModExt@void@builtin@<nofile>@0@builtin definition@d?????@@0@d@
+CCCC_Member@Administrator@AdminLogin@@(int,string)@
+CCCC_MemExt@Administrator@AdminLogin@@(int,string)@sda.cpp@729@definition@FT?T0@LOC:3 COM:0 MVG:2@0@d@
+CCCC_Member@Administrator@AdminLogout@@(vector &,vector &,vector &)@
+CCCC_MemExt@Administrator@AdminLogout@@(vector &,vector &,vector &)@sda.cpp@732@definition@FT?T0@LOC:6 COM:0 MVG:0@0@d@
+CCCC_Member@Administrator@Administrator@@(...)@
+CCCC_MemExt@Administrator@Administrator@@(...)@sda.cpp@710@declaration@FT?T2@LOC:1 COM:0 MVG:0@2@D@
+CCCC_Member@Administrator@Administrator@@(int,string,const vector &,const vector &,const vector &)@
+CCCC_MemExt@Administrator@Administrator@@(int,string,const vector &,const vector &,const vector &)@sda.cpp@980@definition@FT?T?@LOC:8 COM:0 MVG:0@?@d@
+CCCC_Member@Administrator@DeleteTeacher@@()@
+CCCC_MemExt@Administrator@DeleteTeacher@@()@sda.cpp@946@definition@FT?T0@LOC:25 COM:1 MVG:4@0@d@
+CCCC_Member@Administrator@DeleteTeam@@()@
+CCCC_MemExt@Administrator@DeleteTeam@@()@sda.cpp@907@definition@FT?T0@LOC:25 COM:1 MVG:4@0@d@
+CCCC_Member@Administrator@DeleteTeamMember@@()@
+CCCC_MemExt@Administrator@DeleteTeamMember@@()@sda.cpp@848@definition@FT?T0@LOC:44 COM:2 MVG:9@0@d@
+CCCC_Member@Administrator@addTeacher@@()@
+CCCC_MemExt@Administrator@addTeacher@@()@sda.cpp@788@definition@FT?T0@LOC:19 COM:0 MVG:3@0@d@
+CCCC_Member@Administrator@addTeamMember@@()@
+CCCC_MemExt@Administrator@addTeamMember@@()@sda.cpp@812@definition@FT?T0@LOC:22 COM:0 MVG:4@0@d@
+CCCC_Member@Administrator@getInstance@@(...)@
+CCCC_MemExt@Administrator@getInstance@@(...)@sda.cpp@714@definition@FT?T0@LOC:6 COM:0 MVG:2@0@d@
+CCCC_Member@Administrator@showTeachers@@()@
+CCCC_MemExt@Administrator@showTeachers@@()@sda.cpp@937@definition@FT?T0@LOC:8 COM:0 MVG:2@0@d@
+CCCC_Member@Administrator@showTeamMembers@@()@
+CCCC_MemExt@Administrator@showTeamMembers@@()@sda.cpp@839@definition@FT?T0@LOC:8 COM:0 MVG:2@0@d@
+CCCC_Member@Administrator@showTeams@@()@
+CCCC_MemExt@Administrator@showTeams@@()@sda.cpp@899@definition@FT?T0@LOC:7 COM:0 MVG:2@0@d@
+CCCC_Member@Administrator@viewTeamWorkRequests@@()@
+CCCC_MemExt@Administrator@viewTeamWorkRequests@@()@sda.cpp@765@definition@FT?T0@LOC:21 COM:0 MVG:5@0@d@
+CCCC_Member@Administrator@viewWorkRequestsSummary@@()@
+CCCC_MemExt@Administrator@viewWorkRequestsSummary@@()@sda.cpp@738@definition@FT?T0@LOC:25 COM:0 MVG:5@0@d@
+CCCC_Member@AdministratorInterface@AdminLogin@@(int,string)@
+CCCC_MemExt@AdministratorInterface@AdminLogin@@(int,string)@sda.cpp@701@declaration@FT?T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@AdministratorInterface@AdminLogout@@(vector &,vector &,vector &)@
+CCCC_MemExt@AdministratorInterface@AdminLogout@@(vector &,vector &,vector &)@sda.cpp@702@declaration@FT?T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@AdministratorInterface@DeleteTeam@@()@
+CCCC_MemExt@AdministratorInterface@DeleteTeam@@()@sda.cpp@699@declaration@FT?T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@AdministratorInterface@DeleteTeamMember@@()@
+CCCC_MemExt@AdministratorInterface@DeleteTeamMember@@()@sda.cpp@697@declaration@FT?T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@AdministratorInterface@addTeacher@@()@
+CCCC_MemExt@AdministratorInterface@addTeacher@@()@sda.cpp@694@declaration@FT?T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@AdministratorInterface@addTeamMember@@()@
+CCCC_MemExt@AdministratorInterface@addTeamMember@@()@sda.cpp@695@declaration@FT?T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@AdministratorInterface@showTeachers@@()@
+CCCC_MemExt@AdministratorInterface@showTeachers@@()@sda.cpp@700@declaration@FT?T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@AdministratorInterface@showTeamMembers@@()@
+CCCC_MemExt@AdministratorInterface@showTeamMembers@@()@sda.cpp@696@declaration@FT?T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@AdministratorInterface@showTeams@@()@
+CCCC_MemExt@AdministratorInterface@showTeams@@()@sda.cpp@698@declaration@FT?T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@AdministratorInterface@viewTeamWorkRequests@@()@
+CCCC_MemExt@AdministratorInterface@viewTeamWorkRequests@@()@sda.cpp@693@declaration@FT?T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@AdministratorInterface@viewWorkRequestsSummary@@()@
+CCCC_MemExt@AdministratorInterface@viewWorkRequestsSummary@@()@sda.cpp@692@declaration@FT?T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@FileHandler@readTeacherFromFile@@(const string &,vector &)@
+CCCC_MemExt@FileHandler@readTeacherFromFile@@(const string &,vector &)@sda.cpp@555@definition@FT?T0@LOC:27 COM:0 MVG:5@0@d@
+CCCC_Member@FileHandler@readTeamMemberFromFile@@(const string &,vector &)@
+CCCC_MemExt@FileHandler@readTeamMemberFromFile@@(const string &,vector &)@sda.cpp@530@definition@FT?T0@LOC:24 COM:0 MVG:9@0@d@
+CCCC_Member@FileHandler@readTeamsFromFile@@(const string &,vector &,vector &)@
+CCCC_MemExt@FileHandler@readTeamsFromFile@@(const string &,vector &,vector &)@sda.cpp@463@definition@FT?T0@LOC:45 COM:6 MVG:11@0@d@
+CCCC_Member@FileHandler@writeTeacherToFile@@(vector &,const string &)@
+CCCC_MemExt@FileHandler@writeTeacherToFile@@(vector &,const string &)@sda.cpp@641@definition@FT?T0@LOC:16 COM:0 MVG:4@0@d@
+CCCC_Member@FileHandler@writeTeamMemberToFile@@(const vector &,const string &)@
+CCCC_MemExt@FileHandler@writeTeamMemberToFile@@(const vector &,const string &)@sda.cpp@625@definition@FT?T0@LOC:12 COM:0 MVG:3@0@d@
+CCCC_Member@FileHandler@writeTeamsToFile@@(const vector &,const string &)@
+CCCC_MemExt@FileHandler@writeTeamsToFile@@(const vector &,const string &)@sda.cpp@596@definition@FT?T0@LOC:22 COM:3 MVG:6@0@d@
+CCCC_Member@Teacher@Teacher@@(...)@
+CCCC_MemExt@Teacher@Teacher@@(...)@sda.cpp@373@definition@F??T0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@Teacher@TeacherLogOut@@()@
+CCCC_MemExt@Teacher@TeacherLogOut@@()@sda.cpp@387@definition@F??T0@LOC:1 COM:0 MVG:0@0@d@
+CCCC_Member@Teacher@TeacherLogin@@()@
+CCCC_MemExt@Teacher@TeacherLogin@@()@sda.cpp@386@definition@F??T0@LOC:1 COM:0 MVG:0@0@d@
+CCCC_Member@Teacher@getid@@()@
+CCCC_MemExt@Teacher@getid@@()@sda.cpp@389@definition@T??T0@LOC:1 COM:0 MVG:1@0@d@
+CCCC_Member@Teacher@getname@@()@
+CCCC_MemExt@Teacher@getname@@()@sda.cpp@388@definition@T??T0@LOC:1 COM:0 MVG:1@0@d@
+CCCC_Member@Teacher@provideFeedback@@(vector &)@
+CCCC_MemExt@Teacher@provideFeedback@@(vector &)@sda.cpp@418@definition@F??T0@LOC:26 COM:0 MVG:7@0@d@
+CCCC_Member@Teacher@showRequests@@()@
+CCCC_MemExt@Teacher@showRequests@@()@sda.cpp@449@definition@F??T0@LOC:8 COM:0 MVG:2@0@d@
+CCCC_Member@Teacher@showTeacherDetails@@()@
+CCCC_MemExt@Teacher@showTeacherDetails@@()@sda.cpp@377@definition@F??T0@LOC:7 COM:0 MVG:1@0@d@
+CCCC_Member@Teacher@submitWorkRequest@@(vector &)@
+CCCC_MemExt@Teacher@submitWorkRequest@@(vector &)@sda.cpp@390@definition@F??T0@LOC:24 COM:1 MVG:4@0@d@
+CCCC_Member@TeacherInterface@TeacherLogOut@@()@
+CCCC_MemExt@TeacherInterface@TeacherLogOut@@()@sda.cpp@362@declaration@F??T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@TeacherInterface@TeacherLogin@@()@
+CCCC_MemExt@TeacherInterface@TeacherLogin@@()@sda.cpp@361@declaration@F??T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@TeacherInterface@provideFeedback@@(vector &)@
+CCCC_MemExt@TeacherInterface@provideFeedback@@(vector &)@sda.cpp@359@declaration@F??T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@TeacherInterface@showRequests@@()@
+CCCC_MemExt@TeacherInterface@showRequests@@()@sda.cpp@360@declaration@F??T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@TeacherInterface@submitWorkRequest@@(vector &)@
+CCCC_MemExt@TeacherInterface@submitWorkRequest@@(vector &)@sda.cpp@358@declaration@F??T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@Team@ManagerLogOut@@()@
+CCCC_MemExt@Team@ManagerLogOut@@()@sda.cpp@207@definition@F??T0@LOC:1 COM:0 MVG:0@0@d@
+CCCC_Member@Team@ManagerLogin@@()@
+CCCC_MemExt@Team@ManagerLogin@@()@sda.cpp@206@definition@F??T0@LOC:1 COM:0 MVG:0@0@d@
+CCCC_Member@Team@Team@@(...)@
+CCCC_MemExt@Team@Team@@(...)@sda.cpp@196@definition@F??T0@LOC:8 COM:0 MVG:0@0@d@
+CCCC_Member@Team@assignTask@@()@
+CCCC_MemExt@Team@assignTask@@()@sda.cpp@208@definition@F??T0@LOC:13 COM:0 MVG:2@0@d@
+CCCC_Member@Team@assignTeamMember@@(int,int)@
+CCCC_MemExt@Team@assignTeamMember@@(int,int)@sda.cpp@324@definition@F??T0@LOC:24 COM:1 MVG:10@0@d@
+CCCC_Member@Team@competedWorkRequestsByTeam@@(vector)@
+CCCC_MemExt@Team@competedWorkRequestsByTeam@@(vector)@sda.cpp@299@definition@F??T0@LOC:19 COM:1 MVG:7@0@d@
+CCCC_Member@Team@completeTask@@()@
+CCCC_MemExt@Team@completeTask@@()@sda.cpp@223@definition@F??T0@LOC:18 COM:1 MVG:4@0@d@
+CCCC_Member@Team@newWorkRequestsSubmitted@@()@
+CCCC_MemExt@Team@newWorkRequestsSubmitted@@()@sda.cpp@284@definition@F??T0@LOC:12 COM:1 MVG:3@0@d@
+CCCC_Member@Team@showtamDetails@@()@
+CCCC_MemExt@Team@showtamDetails@@()@sda.cpp@273@definition@F??T0@LOC:7 COM:1 MVG:1@0@d@
+CCCC_Member@Team@viewTeamMembers@@()@
+CCCC_MemExt@Team@viewTeamMembers@@()@sda.cpp@263@definition@F??T0@LOC:9 COM:0 MVG:2@0@d@
+CCCC_Member@Team@viewWorkRequests@@(vector)@
+CCCC_MemExt@Team@viewWorkRequests@@(vector)@sda.cpp@244@definition@F??T0@LOC:15 COM:0 MVG:3@0@d@
+CCCC_Member@TeamMember@MemberLogOut@@()@
+CCCC_MemExt@TeamMember@MemberLogOut@@()@sda.cpp@152@definition@F??T0@LOC:1 COM:0 MVG:0@0@d@
+CCCC_Member@TeamMember@MemberLogin@@()@
+CCCC_MemExt@TeamMember@MemberLogin@@()@sda.cpp@151@definition@F??T0@LOC:1 COM:0 MVG:0@0@d@
+CCCC_Member@TeamMember@TeamMember@@(...)@
+CCCC_MemExt@TeamMember@TeamMember@@(...)@sda.cpp@111@definition@F??T0@LOC:1 COM:1 MVG:0@0@d@
+CCCC_Member@TeamMember@TeamMemberLogin@@(vector)@
+CCCC_MemExt@TeamMember@TeamMemberLogin@@(vector)@sda.cpp@153@definition@F??T0@LOC:10 COM:0 MVG:3@0@d@
+CCCC_Member@TeamMember@Work@@()@
+CCCC_MemExt@TeamMember@Work@@()@sda.cpp@113@definition@F??T0@LOC:7 COM:1 MVG:2@0@d@
+CCCC_Member@TeamMember@getid@@()@
+CCCC_MemExt@TeamMember@getid@@()@sda.cpp@123@definition@T??T0@LOC:1 COM:0 MVG:1@0@d@
+CCCC_Member@TeamMember@getname@@()@
+CCCC_MemExt@TeamMember@getname@@()@sda.cpp@124@definition@T??T0@LOC:1 COM:0 MVG:1@0@d@
+CCCC_Member@TeamMember@showjobs@@()@
+CCCC_MemExt@TeamMember@showjobs@@()@sda.cpp@165@definition@F??T0@LOC:5 COM:0 MVG:1@0@d@
+CCCC_Member@TeamMember@updatestatus@@()@
+CCCC_MemExt@TeamMember@updatestatus@@()@sda.cpp@131@definition@F??T0@LOC:19 COM:6 MVG:4@0@d@
+CCCC_Member@TeamMemberInterface@MemberLogOut@@()@
+CCCC_MemExt@TeamMemberInterface@MemberLogOut@@()@sda.cpp@97@declaration@F??T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@TeamMemberInterface@MemberLogin@@()@
+CCCC_MemExt@TeamMemberInterface@MemberLogin@@()@sda.cpp@96@declaration@F??T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@TeamMemberInterface@TeamMemberLogin@@(vector)@
+CCCC_MemExt@TeamMemberInterface@TeamMemberLogin@@(vector)@sda.cpp@99@declaration@F??T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@TeamMemberInterface@Work@@()@
+CCCC_MemExt@TeamMemberInterface@Work@@()@sda.cpp@94@declaration@F??T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@TeamMemberInterface@updatestatus@@()@
+CCCC_MemExt@TeamMemberInterface@updatestatus@@()@sda.cpp@95@declaration@F??T0@LOC:1 COM:0 MVG:0@0@D@
+CCCC_Member@WorkRequest@WorkRequest@@(...)@
+CCCC_MemExt@WorkRequest@WorkRequest@@(...)@sda.cpp@43@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@WorkRequest@addFeedback@@(const string &)@
+CCCC_MemExt@WorkRequest@addFeedback@@(const string &)@sda.cpp@63@definition@F???0@LOC:4 COM:9 MVG:0@0@d@
+CCCC_Member@WorkRequest@completeTask@@()@
+CCCC_MemExt@WorkRequest@completeTask@@()@sda.cpp@82@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@WorkRequest@getstatus@@()@
+CCCC_MemExt@WorkRequest@getstatus@@()@sda.cpp@53@definition@T???0@LOC:1 COM:0 MVG:1@0@d@
+CCCC_Member@WorkRequest@requestteamMemberAssigned@@(int)@
+CCCC_MemExt@WorkRequest@requestteamMemberAssigned@@(int)@sda.cpp@68@definition@F???0@LOC:13 COM:0 MVG:3@0@d@
+CCCC_Member@WorkRequest@showdetails@@()@
+CCCC_MemExt@WorkRequest@showdetails@@()@sda.cpp@86@definition@T???0@LOC:3 COM:0 MVG:0@0@d@
+CCCC_Member@WorkRequest@updateStatus@@(const string &)@
+CCCC_MemExt@WorkRequest@updateStatus@@(const string &)@sda.cpp@49@definition@F???0@LOC:4 COM:0 MVG:0@0@d@
+CCCC_Member@WorkRequest@~WorkRequest@@()@
+CCCC_MemExt@WorkRequest@~WorkRequest@@()@sda.cpp@90@definition@F???0@LOC:0 COM:0 MVG:0@0@d@
+CCCC_Member@anonymous@main@@()@
+CCCC_MemExt@anonymous@main@@()@sda.cpp@991@definition@FT?T?@LOC:213 COM:5 MVG:53@?@d@
+CCCC_Member@dataManager@loadData@@(vector &,vector &,vector &)@
+CCCC_MemExt@dataManager@loadData@@(vector &,vector &,vector &)@sda.cpp@671@definition@FT?T0@LOC:9 COM:1 MVG:0@0@d@
+CCCC_Member@dataManager@saveData@@(vector &,vector &,vector &)@
+CCCC_MemExt@dataManager@saveData@@(vector &,vector &,vector &)@sda.cpp@683@definition@FT?T0@LOC:6 COM:1 MVG:0@0@d@
+CCCC_UseRel@AdministratorInterface@Administrator@
+CCCC_UseExt@AdministratorInterface@Administrator@sda.cpp@706@inheritance@FT?T0@*@0@I@
+CCCC_UseRel@string@Administrator@
+CCCC_UseExt@string@Administrator@sda.cpp@722@has by value@FT?T0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@string@Administrator@sda.cpp@729@pass by value@FT?T0@*@0@P@
+CCCC_UseExt@string@Administrator@sda.cpp@980@pass by value@FT?T?@*@?@P@
+CCCC_UseRel@vector@Administrator@
+CCCC_UseExt@vector@Administrator@sda.cpp@723@has by value@FT?T0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@vector@Administrator@sda.cpp@724@has by value@FT?T0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@vector@Administrator@sda.cpp@725@has by value@FT?T0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@vector@Administrator@sda.cpp@732@pass by reference@FT?T0@*@0@p@
+CCCC_UseExt@vector@Administrator@sda.cpp@732@pass by reference@FT?T0@*@0@p@
+CCCC_UseExt@vector@Administrator@sda.cpp@732@pass by reference@FT?T0@*@0@p@
+CCCC_UseExt@vector@Administrator@sda.cpp@980@pass by reference@FT?T?@*@?@p@
+CCCC_UseExt@vector@Administrator@sda.cpp@980@pass by reference@FT?T?@*@?@p@
+CCCC_UseExt@vector@Administrator@sda.cpp@980@pass by reference@FT?T?@*@?@p@
+CCCC_UseRel@string@AdministratorInterface@
+CCCC_UseExt@string@AdministratorInterface@sda.cpp@701@pass by value@FT?T0@*@0@P@
+CCCC_UseRel@vector@AdministratorInterface@
+CCCC_UseExt@vector@AdministratorInterface@sda.cpp@702@pass by reference@FT?T0@*@0@p@
+CCCC_UseExt@vector@AdministratorInterface@sda.cpp@702@pass by reference@FT?T0@*@0@p@
+CCCC_UseExt@vector@AdministratorInterface@sda.cpp@702@pass by reference@FT?T0@*@0@p@
+CCCC_UseRel@string@FileHandler@
+CCCC_UseExt@string@FileHandler@sda.cpp@463@pass by reference@FT?T0@*@0@p@
+CCCC_UseExt@string@FileHandler@sda.cpp@530@pass by reference@FT?T0@*@0@p@
+CCCC_UseExt@string@FileHandler@sda.cpp@555@pass by reference@FT?T0@*@0@p@
+CCCC_UseExt@string@FileHandler@sda.cpp@596@pass by reference@FT?T0@*@0@p@
+CCCC_UseExt@string@FileHandler@sda.cpp@625@pass by reference@FT?T0@*@0@p@
+CCCC_UseExt@string@FileHandler@sda.cpp@641@pass by reference@FT?T0@*@0@p@
+CCCC_UseRel@vector@FileHandler@
+CCCC_UseExt@vector@FileHandler@sda.cpp@463@pass by reference@FT?T0@*@0@p@
+CCCC_UseExt@vector@FileHandler@sda.cpp@463@pass by reference@FT?T0@*@0@p@
+CCCC_UseExt@vector@FileHandler@sda.cpp@530@pass by reference@FT?T0@*@0@p@
+CCCC_UseExt@vector@FileHandler@sda.cpp@555@pass by reference@FT?T0@*@0@p@
+CCCC_UseExt@vector@FileHandler@sda.cpp@596@pass by reference@FT?T0@*@0@p@
+CCCC_UseExt@vector@FileHandler@sda.cpp@625@pass by reference@FT?T0@*@0@p@
+CCCC_UseExt@vector@FileHandler@sda.cpp@641@pass by reference@FT?T0@*@0@p@
+CCCC_UseRel@TeacherInterface@Teacher@
+CCCC_UseExt@TeacherInterface@Teacher@sda.cpp@365@inheritance@F??T0@*@0@I@
+CCCC_UseRel@string@Teacher@
+CCCC_UseExt@string@Teacher@sda.cpp@369@has by value@F??T0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseRel@vector@Teacher@
+CCCC_UseExt@vector@Teacher@sda.cpp@371@has by value@F??T0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@vector@Teacher@sda.cpp@390@pass by reference@F??T0@*@0@p@
+CCCC_UseExt@vector@Teacher@sda.cpp@418@pass by reference@F??T0@*@0@p@
+CCCC_UseRel@vector@TeacherInterface@
+CCCC_UseExt@vector@TeacherInterface@sda.cpp@358@pass by reference@F??T0@*@0@p@
+CCCC_UseExt@vector@TeacherInterface@sda.cpp@359@pass by reference@F??T0@*@0@p@
+CCCC_UseRel@TeamInterface@Team@
+CCCC_UseExt@TeamInterface@Team@sda.cpp@185@inheritance@F??T0@*@0@I@
+CCCC_UseRel@string@Team@
+CCCC_UseExt@string@Team@sda.cpp@190@has by value@F??T0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@string@Team@sda.cpp@191@has by value@F??T0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseRel@vector@Team@
+CCCC_UseExt@vector@Team@sda.cpp@192@has by value@F??T0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@vector@Team@sda.cpp@193@has by value@F??T0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@vector@Team@sda.cpp@244@pass by value@F??T0@*@0@P@
+CCCC_UseExt@vector@Team@sda.cpp@299@pass by value@F??T0@*@0@P@
+CCCC_UseRel@TeamMemberInterface@TeamMember@
+CCCC_UseExt@TeamMemberInterface@TeamMember@sda.cpp@101@inheritance@F??T0@*@0@I@
+CCCC_UseRel@string@TeamMember@
+CCCC_UseExt@string@TeamMember@sda.cpp@107@has by value@F??T0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseRel@vector@TeamMember@
+CCCC_UseExt@vector@TeamMember@sda.cpp@109@has by value@F??T0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@vector@TeamMember@sda.cpp@153@pass by value@F??T0@*@0@P@
+CCCC_UseRel@vector@TeamMemberInterface@
+CCCC_UseExt@vector@TeamMemberInterface@sda.cpp@99@pass by value@F??T0@*@0@P@
+CCCC_UseRel@string@WorkRequest@
+CCCC_UseExt@string@WorkRequest@sda.cpp@36@has by value@????0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@string@WorkRequest@sda.cpp@37@has by value@????0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@string@WorkRequest@sda.cpp@39@has by value@????0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@string@WorkRequest@sda.cpp@40@has by value@????0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseExt@string@WorkRequest@sda.cpp@49@pass by reference@F???0@*@0@p@
+CCCC_UseExt@string@WorkRequest@sda.cpp@63@pass by reference@F???0@*@0@p@
+CCCC_UseRel@time_t@WorkRequest@
+CCCC_UseExt@time_t@WorkRequest@sda.cpp@38@has by value@????0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseRel@vector@WorkRequest@
+CCCC_UseExt@vector@WorkRequest@sda.cpp@41@has by value@????0@LOC:0 COM:0 MVG:0@0@H@
+CCCC_UseRel@vector@dataManager@
+CCCC_UseExt@vector@dataManager@sda.cpp@671@pass by reference@FT?T0@*@0@p@
+CCCC_UseExt@vector@dataManager@sda.cpp@671@pass by reference@FT?T0@*@0@p@
+CCCC_UseExt@vector@dataManager@sda.cpp@671@pass by reference@FT?T0@*@0@p@
+CCCC_UseExt@vector@dataManager@sda.cpp@683@pass by reference@FT?T0@*@0@p@
+CCCC_UseExt@vector@dataManager@sda.cpp@683@pass by reference@FT?T0@*@0@p@
+CCCC_UseExt@vector@dataManager@sda.cpp@683@pass by reference@FT?T0@*@0@p@
+CCCC_RejExt@sda.cpp@1@<file scope items>@FT?T?@LOC:5 COM:0 MVG:0@?@r@
